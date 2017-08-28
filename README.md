@@ -29,4 +29,4 @@ Scanning ports from range 1 to 5000
 
 STEP 6:
 
-displaying results
+Displaying results
